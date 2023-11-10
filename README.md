@@ -13,7 +13,9 @@ Android がデフォルト設定の場合、Chromeは最新バージョンに自
 
 https://www.google.com/intl/en/chrome/privacy/whitepaper.html#update
 
-    Unlike the desktop versions of Chrome, the delivery and management of updates for mobile versions of Chrome are managed through the app stores for Android and iOS. Mobile versions of Chrome utilize the servers described above for counting active installations and for user-initiated checks for updates.
+<pre>
+Unlike the desktop versions of Chrome, the delivery and management of updates for mobile versions of Chrome are managed through the app stores for Android and iOS. Mobile versions of Chrome utilize the servers described above for counting active installations and for user-initiated checks for updates.
+</pre>
 
 </br>
 
